@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "357590079329",
+    "firebase_url": "https://week-6-b5f6f-default-rtdb.firebaseio.com",
+    "project_id": "week-6-b5f6f",
+    "storage_bucket": "week-6-b5f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357590079329:android:064cb235a674c39c0c9720",
+        "android_client_info": {
+          "package_name": "com.ayotola.decagon.trucontactsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357590079329-7mbnt2rujbu208kig1titme0s5l7c7tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jQM30TWhrHwtBv5grnplSjowibkwAuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357590079329-7mbnt2rujbu208kig1titme0s5l7c7tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357590079329:android:88f32775a00ca86b0c9720",
+        "android_client_info": {
+          "package_name": "com.example.weeksix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357590079329-7mbnt2rujbu208kig1titme0s5l7c7tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jQM30TWhrHwtBv5grnplSjowibkwAuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357590079329-7mbnt2rujbu208kig1titme0s5l7c7tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357590079329:android:d74a773c5cf89ccd0c9720",
+        "android_client_info": {
+          "package_name": "com.francis.week6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357590079329-7mbnt2rujbu208kig1titme0s5l7c7tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jQM30TWhrHwtBv5grnplSjowibkwAuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357590079329-7mbnt2rujbu208kig1titme0s5l7c7tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

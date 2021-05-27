@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".firebasecontact.WriteContact"
+    android:orientation="vertical"
+    android:id="@+id/write_contact_page"
+    >
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="Edit Contact"
+        app:navigationIcon="@drawable/round_arrow_back"
+        >
+
+    </com.google.android.material.appbar.MaterialToolbar>
+
+    <EditText
+        android:id="@+id/write_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Contact Name"
+        android:inputType="textPersonName"
+        android:padding="24dp"
+        android:layout_margin="16dp"
+        android:drawableLeft="@drawable/round_person" />
+
+    <EditText
+        android:id="@+id/write_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:padding="24dp"
+        android:drawableLeft="@drawable/round_phone"
+        android:hint="Contact Number"
+        android:layout_margin="16dp"
+        />
+
+    <EditText
+        android:id="@+id/write_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:padding="24dp"
+        android:hint="Email"
+        android:layout_margin="16dp"
+        android:drawableLeft="@drawable/outline_mail"
+        />
+
+    <Button
+        android:id="@+id/save_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:text="Save"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        />
+
+</LinearLayout>
